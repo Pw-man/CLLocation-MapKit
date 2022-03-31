@@ -291,6 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "CLLocation&MapKit/Info.plist";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Приложение запрашивает доступ к геолокации. Ваши данные хранятся локально на устройстве и не передаются третьим лицам.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "CLLocation&MapKit/Info.plist";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Приложение запрашивает доступ к геолокации. Ваши данные хранятся локально на устройстве и не передаются третьим лицам.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
