@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3019A29B28188C31004DF84E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3019A29A28188C31004DF84E /* Extensions.swift */; };
 		3095177E27F5F6F20020D266 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3095177D27F5F6F20020D266 /* AppDelegate.swift */; };
 		3095178027F5F6F20020D266 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3095177F27F5F6F20020D266 /* SceneDelegate.swift */; };
 		3095178227F5F6F20020D266 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3095178127F5F6F20020D266 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3019A29A28188C31004DF84E /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		3095177A27F5F6F20020D266 /* CLLocation&MapKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CLLocation&MapKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3095177D27F5F6F20020D266 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3095177F27F5F6F20020D266 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3095177D27F5F6F20020D266 /* AppDelegate.swift */,
 				3095177F27F5F6F20020D266 /* SceneDelegate.swift */,
 				3095178127F5F6F20020D266 /* ViewController.swift */,
+				3019A29A28188C31004DF84E /* Extensions.swift */,
 				3095178327F5F6F20020D266 /* Main.storyboard */,
 				3095178627F5F6F60020D266 /* Assets.xcassets */,
 				3095178827F5F6F60020D266 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				3095178227F5F6F20020D266 /* ViewController.swift in Sources */,
 				3095177E27F5F6F20020D266 /* AppDelegate.swift in Sources */,
 				3095178027F5F6F20020D266 /* SceneDelegate.swift in Sources */,
+				3019A29B28188C31004DF84E /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
